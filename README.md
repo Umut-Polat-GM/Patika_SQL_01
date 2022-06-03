@@ -15,3 +15,6 @@ Includes SQL queries.(LIKE, ILIKE)
 
 ## Task04
 Includes SQL queries.(DISTINCT, COUNT)
+
+## Task05
+Includes SQL queries.(LIMIT, OFFSET)
