@@ -6,3 +6,6 @@ Uses the DB dvdrental from PostgreSQL's tutorial.
 
 ## Task01
 Includes SQL queries.(SELECT, WHERE)
+
+## Task02
+Includes SQL queries.(BETWEEN, IN)
