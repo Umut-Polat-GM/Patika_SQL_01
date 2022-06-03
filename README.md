@@ -18,3 +18,6 @@ Includes SQL queries.(DISTINCT, COUNT)
 
 ## Task05
 Includes SQL queries.(LIMIT, OFFSET)
+
+## Task06
+Includes SQL queries.(aggregate functions)
