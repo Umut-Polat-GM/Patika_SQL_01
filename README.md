@@ -12,3 +12,6 @@ Includes SQL queries.(BETWEEN, IN)
 
 ## Task03
 Includes SQL queries.(LIKE, ILIKE)
+
+## Task04
+Includes SQL queries.(DISTINCT, COUNT)
