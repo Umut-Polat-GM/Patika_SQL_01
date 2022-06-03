@@ -21,3 +21,6 @@ Includes SQL queries.(LIMIT, OFFSET)
 
 ## Task06
 Includes SQL queries.(aggregate functions)
+
+## Task07
+Includes SQL queries.(GROUP BY, HAVING)
