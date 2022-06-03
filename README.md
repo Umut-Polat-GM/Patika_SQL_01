@@ -9,3 +9,6 @@ Includes SQL queries.(SELECT, WHERE)
 
 ## Task02
 Includes SQL queries.(BETWEEN, IN)
+
+## Task03
+Includes SQL queries.(LIKE, ILIKE)
