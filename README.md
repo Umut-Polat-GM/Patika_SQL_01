@@ -30,3 +30,6 @@ Includes SQL queries.(UPDATE, DELETE)
 
 ## Task09
 Includes SQL queries.(INNER JOIN)
+
+## Task10
+Includes SQL queries.(LEFT/RIGHT/FULL JOIN)
