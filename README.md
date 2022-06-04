@@ -24,3 +24,6 @@ Includes SQL queries.(aggregate functions)
 
 ## Task07
 Includes SQL queries.(GROUP BY, HAVING)
+
+## Task08
+Includes SQL queries.(UPDATE, DELETE)
