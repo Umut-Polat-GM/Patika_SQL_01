@@ -27,3 +27,6 @@ Includes SQL queries.(GROUP BY, HAVING)
 
 ## Task08
 Includes SQL queries.(UPDATE, DELETE)
+
+## Task09
+Includes SQL queries.(INNER JOIN)
