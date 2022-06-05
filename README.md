@@ -37,3 +37,6 @@ Includes SQL queries.(LEFT/RIGHT/FULL JOIN)
 ## Task11
 Includes SQL queries.(UNION-INTERSECT-EXCEPT)
 
+## Task12
+Includes SQL queries.(SUBQUERY - JOIN)
+
